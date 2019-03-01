@@ -16,7 +16,7 @@ public class Lab6 {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Hello World original");
+        System.out.println("Hello World 2");
         // TODO code application logic here
     }
     
