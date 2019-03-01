@@ -17,6 +17,7 @@ public class Lab6 {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hello World I wrote this from GitHub");
+        System.out.println("I wrote this in my clone");
         // TODO code application logic here
     }
     
