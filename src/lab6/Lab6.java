@@ -19,6 +19,7 @@ public class Lab6 {
         System.out.println("Hello World I wrote this from GitHub");
         System.out.println("I wrote this statement in my original file");
         System.out.println("I copy/pasted this statement in my original file");
+        System.out.println("I wrote this in the Master Branch");
         // TODO code application logic here
     }
     
