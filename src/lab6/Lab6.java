@@ -22,6 +22,7 @@ public class Lab6 {
         System.out.println("I wrote this in the Master Branch");
         System.out.println("I wrottee this in my new Branch");
         System.out.println("I wrote this again");
+        System.out.println("I wrote this in my thrid branch");
         // TODO code application logic here
     }
     
